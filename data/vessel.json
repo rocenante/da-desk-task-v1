@@ -1,0 +1,44 @@
+{
+  "Vessel Details": {
+    "General": {
+      "Vessel Name": "SUDESTADA",
+      "Vessel Built year": 2010,
+      "Flag": "MLT – Malta",
+      "Classification Society": "Registro Italiano Navale",
+      "Call Sign": null
+    },
+    "Main Details": {
+      "Lloyds / IMO No.": null,
+      "Type": "Bulk Carrier",
+      "DWT": 93274,
+      "GT": "51,300",
+      "NT": "31,192",
+      "LOA (m)": 229.2,
+      "Beam (m)": 38,
+      "Moulded Depth (m)": 20.7,
+      "LBP": 222,
+      "Drafts SW S (m)": "14.9",
+      "Drafts SW W (m)": "0",
+      "Drafts SW T (m)": "0",
+      "Suez GT": "49,069",
+      "Suez NT": "-"
+    },
+    "Communication": {
+      "E-mail": null,
+      "Commercial E-mail": null
+    },
+    "DRY": {
+      "Number of Holds": 7
+    },
+    "Cargo Details": {
+      "Cargo Quantity": "40,000 MT",
+      "Days Alongside": 3.39,
+      "Arrival Time": "15 Nov 2024 10:12",
+      "Departure Time": "22 Nov 2024 13:00"
+    },
+    "Activity/Operations": {
+      "Activity": "Exporting Iron Ore",
+      "Number of Operations": 2
+    }
+  }
+}

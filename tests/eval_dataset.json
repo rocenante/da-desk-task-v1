@@ -1,0 +1,11 @@
+
+
+[
+  {
+    "user_query": "Calculate light dues, port dues, and towage for a 35000 GT container vessel in Durban.",
+    "expected_port": "Durban",
+    "expected_gt": 35000,
+    "expected_services": ["light dues", "port dues", "towage dues"],
+    "ground_truth_context_keywords": ["Section 1", "Section 3", "Section 4", "Durban"]
+  }
+]

@@ -1,0 +1,29 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.env/
+.venv/
+env-v1/
+venv/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Generated application data
+chroma_tariff_db/
+output/
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
